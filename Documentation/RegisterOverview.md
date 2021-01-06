@@ -2,7 +2,7 @@
 
 Note: the provided register information is valid only for inverters configured to operate in floating mode
 
-|Register Documentation | Datatype | Description|
+|Register Nr | Datatype | Description|
 |--------|-----------|-----|
 |40092 | Float 32 |Inverter AC Output in W |
 |40285 | UInt 16 |PV String 1 Output in W (scaled) |
