@@ -5,4 +5,4 @@ Enable "Slave as Modbus TCP", set the Modbus Port (default: 502). For this docum
 The Meter Address is commonly set to 200 or 240 - this ID needs to be configured in the test client as Object Number. 
 Inverter Control via Modbus can be disabled. 
 
-![Inverter Configuration](https://github.com/oscarknapp/Fronius-Gen-24-Modbus-Integration/tree/main/Documentation/assets/01_inverterconfiguration.png "Inverter Configuration")
+![Inverter Configuration](https://github.com/oscarknapp/Fronius-Gen-24-Modbus-Integration/blob/main/Documentation/assets/01_inverterconfiguration.png?raw=true "Inverter Configuration")
